@@ -14,7 +14,7 @@ Do curso de versionamanto com Git e Github
 
 | Aulas | Resumos|
 |--------|----------|
-| Gravando Alterações no Repositório local| [Resumos]()|
+| Gravando Alterações no Repositório local| [Resumo]()|
 
 ```
 Git init
